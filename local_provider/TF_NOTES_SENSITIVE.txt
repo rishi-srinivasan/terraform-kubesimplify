@@ -1,0 +1,1 @@
+This sensitive file was created using the local_sensitive_file resource in Terraform.
