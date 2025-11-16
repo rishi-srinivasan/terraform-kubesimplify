@@ -1,0 +1,8 @@
+{
+  "tags": {
+    "environment": "development",
+    "product": "terraform_exercises",
+    "created_by": "terraform",
+    "deployment": "automatic"
+  }
+}

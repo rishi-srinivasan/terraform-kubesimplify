@@ -24,3 +24,11 @@ override.tf.json
 *_override.tf.json
 .terraform.lock.hcl.backup
 .terraform.lock.hcl
+!/ec2/plan
+!/ec2/aws_cli.sh
+!/local_provider/plan
+!/local_provider/tfplan
+
+# macOS
+.DS_Store
+Thumbs.db
