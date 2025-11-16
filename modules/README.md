@@ -10,5 +10,5 @@
 
 | Name | Description |
 |------|-------------|
-| <a name="output_tags"></a> [tags](#output\_tags) | Default tags applied to resources |
+| <a name="output_default_tags"></a> [default\_tags](#output\_default\_tags) | Default tags applied to resources |
 <!-- END_TF_DOCS -->

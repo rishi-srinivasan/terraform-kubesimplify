@@ -1,8 +1,8 @@
 {
-  "tags": {
-    "environment": "development",
-    "product": "terraform_exercises",
-    "created_by": "terraform",
-    "deployment": "automatic"
+  "default_tags": {
+    "environment": "dev",
+    "product": "tf",
+    "createdBy": "terraform",
+    "deployment": "automation"
   }
 }

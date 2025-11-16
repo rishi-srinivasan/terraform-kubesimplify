@@ -28,6 +28,7 @@ override.tf.json
 !/ec2/aws_cli.sh
 !/local_provider/plan
 !/local_provider/tfplan
+!/tf.sh
 
 # macOS
 .DS_Store
