@@ -1,0 +1,8 @@
+{
+  "default_tags": {
+    "environment": "dev",
+    "product": "tf",
+    "createdBy": "terraform",
+    "deployment": "automation"
+  }
+}

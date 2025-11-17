@@ -57,3 +57,7 @@ This project uses [Terraform](https://www.terraform.io/) to provision resources 
 - The local provider is used for tasks like creating files or directories on your machine.
 
 
+
+<!-- BEGIN_TF_DOCS -->
+
+<!-- END_TF_DOCS -->
