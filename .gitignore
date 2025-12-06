@@ -24,10 +24,10 @@ override.tf.json
 *_override.tf.json
 .terraform.lock.hcl.backup
 .terraform.lock.hcl
-!/ec2/plan
-!/ec2/aws_cli.sh
-!/local_provider/plan
-!/local_provider/tfplan
+!/projects/ec2/plan
+!/projects/ec2/aws_cli.sh
+!/projects/local_provider/plan
+!/projects/local_provider/tfplan
 !/tf.sh
 
 # macOS
