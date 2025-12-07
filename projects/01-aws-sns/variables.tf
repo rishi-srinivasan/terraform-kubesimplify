@@ -7,7 +7,6 @@ variable "aws_region" {
 variable "sns_email_endpoint" {
   description = "The email endpoint to subscribe to the SNS topic"
   type        = string
-  default     = "rishi.cv40@gmail.com"
 }
 
 variable "email_message" {

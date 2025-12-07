@@ -24,6 +24,8 @@ repos:
           - "--args=--only=terraform_required_version"
           - "--args=--only=terraform_required_providers"
           - "--args=--only=terraform_workspace_remote"
+
+  # Terraform documentation
   - repo: https://github.com/terraform-docs/terraform-docs
     rev: "v0.17.0"
     hooks:
@@ -37,6 +39,8 @@ repos:
           - "--output-file"
           - "README.md"
           - "."
+
+  # Basic sanity checks
   - repo: https://github.com/pre-commit/pre-commit-hooks
     rev: v4.5.0
     hooks:
