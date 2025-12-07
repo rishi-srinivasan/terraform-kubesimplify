@@ -24,8 +24,8 @@ override.tf.json
 *_override.tf.json
 .terraform.lock.hcl.backup
 .terraform.lock.hcl
-!/projects/07-simple-ec2/plan
-!/projects/07-simple-ec2/aws_cli.sh
+!/projects/07-aws-simple-ec2/plan
+!/aws_cli.sh
 !/projects/08-local-provider/plan
 !/projects/08-local-provider/tfplan
 !/tf.sh
